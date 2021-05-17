@@ -1,0 +1,14 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sabrina Morais', '542.505.110-73', 10090.0, TIMESTAMP WITH TIME ZONE '1985-07-20T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tarciso Torres', '895.035.470-59', 4090.0, TIMESTAMP WITH TIME ZONE '1986-07-31T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Arnold Schwarzenegger', '248.461.210-97', 10000090.0, TIMESTAMP WITH TIME ZONE '1947-07-30T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Malu Mader', '430.895.500-91', 5000090.0, TIMESTAMP WITH TIME ZONE '1966-07-20T20:50:07.12345Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Xuxa Meneghel', '406.685.810-42', 20000090.0, TIMESTAMP WITH TIME ZONE '1963-07-20T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Didi Mocó Sonrisal Colesterol Novalgino Mufumbo', '521.129.400-90', 10090.0, TIMESTAMP WITH TIME ZONE '1935-07-20T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sylvester Stallone', '402.586.040-69', 10090.0, TIMESTAMP WITH TIME ZONE '1946-06-06T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Michelle Pfeiffer', '376.396.730-38', 70090.0, TIMESTAMP WITH TIME ZONE '1958-04-29T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sharon Stone', '135.543.460-20', 15090.0, TIMESTAMP WITH TIME ZONE '1958-10-03T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Demi Moore', '647.414.750-42', 30090.0, TIMESTAMP WITH TIME ZONE '1962-11-11T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tom Cruise', '135.543.460-20', 45090.0, TIMESTAMP WITH TIME ZONE '1962-06-03T20:50:07.12345Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mel Gibson', '376.396.730-38', 27090.0, TIMESTAMP WITH TIME ZONE '1985-07-20T20:50:07.12345Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nicole Kidman', '731.651.920-73', 37090.0, TIMESTAMP WITH TIME ZONE '1967-06-20T20:50:07.12345Z', 6);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Keanu Reeves', '637.170.020-07', 17090.0, TIMESTAMP WITH TIME ZONE '1964-09-02T20:50:07.12345Z', 0);
